@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  pod-reaper:
+  - apiVersion: v1
+    created: "2021-12-17T12:47:01.12731+01:00"
+    description: A Helm chart for pod-reaper
+    digest: b1436d27c1c8d1dc96388e698395a41b806ad8e4d5d7b71fa455201848a5d3f0
+    home: https://rogerioefonseca/pod-reaper-helm.git
+    name: pod-reaper
+    urls:
+    - pod-reaper-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-17T12:47:01.12531+01:00"
